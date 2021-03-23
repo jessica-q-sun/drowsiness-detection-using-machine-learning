@@ -1,6 +1,7 @@
 # Detecting Driver Drowsiness Using Machine Learning
 
 Driver fatigue is one of the major causes of vehicle crashes. This project builds a neural network that detects signs of drowsiness and classifies the driver as alert or drowsy. 
+Utilized: Python, TensorFlow, openCV, scikit-learn, JavaScript
 
 ## Data
 
